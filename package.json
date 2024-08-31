@@ -1,0 +1,33 @@
+{
+  "name": "today-in-wow.js",
+  "version": "1.0.0",
+  "description": "An npm package that fetches the World of Warcraft ingame events from https://wowhead.com/today-in-wow using Axios & Cheerio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roo7K1d/today-in-wow.js.git"
+  },
+  "keywords": [
+    "warcraft",
+    "events",
+    "ingame",
+    "daily",
+    "javascript",
+    "package",
+    "module"
+  ],
+  "author": "Roo7K1d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roo7K1d/today-in-wow.js/issues"
+  },
+  "homepage": "https://github.com/Roo7K1d/today-in-wow.js#readme",
+  "dependencies": {
+    "axios": "^1.7.6",
+    "cheerio": "^1.0.0",
+    "moment": "^2.30.1"
+  }
+}
