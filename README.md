@@ -1,24 +1,24 @@
-<img src="http://rootk1d.xyz/github/wow-calendar.js/github_banner.png">
+<img src="[http://rootk1d.xyz/github/today-in-wow.,js/github_banner.png](https://rootk1d.xyz/github/today-in-wow.js/banner.png)">
 <p align="center"><i>An npm package that fetches the World of Warcraft ingame events from https://wowhead.com/events using Axios & Cheerio.</i></p>
 <div align="center">
-  <a href="https://github.com/roo7k1d/wow-calendar.js/stargazers"><img src="https://img.shields.io/github/stars/roo7k1d/wow-calendar.js?color=yellow" alt="Stars Badge"/></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/network/members"><img src="https://img.shields.io/github/forks/roo7k1d/wow-calendar.js?color=orange" alt="Forks Badge"/></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/pulls"><img src="https://img.shields.io/github/issues-pr/roo7k1d/wow-calendar.js" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/issues"><img src="https://img.shields.io/github/issues/roo7k1d/wow-calendar.js" alt="Issues Badge"/></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/roo7k1d/wow-calendar.js?color=2b9348"></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/roo7k1d/wow-calendar.js?color=2b9348" alt="License Badge"/></a>
+  <a href="https://github.com/roo7k1d/today-in-wow.,js/stargazers"><img src="https://img.shields.io/github/stars/roo7k1d/today-in-wow.,js?color=yellow" alt="Stars Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/network/members"><img src="https://img.shields.io/github/forks/roo7k1d/today-in-wow.,js?color=orange" alt="Forks Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/pulls"><img src="https://img.shields.io/github/issues-pr/roo7k1d/today-in-wow.,js" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/issues"><img src="https://img.shields.io/github/issues/roo7k1d/today-in-wow.,js" alt="Issues Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/roo7k1d/today-in-wow.,js?color=2b9348"></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/roo7k1d/today-in-wow.,js?color=2b9348" alt="License Badge"/></a>
 <br>
-<a href="https://github.com/roo7k1d/wow-calendar.js/"><img src="https://img.shields.io/github/repo-size/roo7k1d/wow-calendar.js?color=important" alt="License Badge"/></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/"><img src="https://img.shields.io/tokei/lines/github/roo7k1d/wow-calendar.js?color=yellowgreen" alt="License Badge"/></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/releases"><img src="https://img.shields.io/github/v/release/roo7k1d/wow-calendar.js?color=success" alt="License Badge"/></a>
-<a href="https://github.com/roo7k1d/wow-calendar.js/commits"><img src="https://img.shields.io/github/last-commit/roo7k1d/wow-calendar.js" alt="License Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/"><img src="https://img.shields.io/github/repo-size/roo7k1d/today-in-wow.,js?color=important" alt="License Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/"><img src="https://img.shields.io/tokei/lines/github/roo7k1d/today-in-wow.,js?color=yellowgreen" alt="License Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/releases"><img src="https://img.shields.io/github/v/release/roo7k1d/today-in-wow.,js?color=success" alt="License Badge"/></a>
+<a href="https://github.com/roo7k1d/today-in-wow.,js/commits"><img src="https://img.shields.io/github/last-commit/roo7k1d/today-in-wow.,js" alt="License Badge"/></a>
 <br>
 <a href="https://discord.gg/QQaWvMkFbs"><img src="https://img.shields.io/discord/801802083757457418?logo=discord&label=discord"/></a>
-<a href="https://www.npmjs.com/package/wow-calendar.js"><img src="https://img.shields.io/npm/v/wow-calendar.js?logo=npm"/></a>
-<a href="https://github.com/Roo7K1d/wow-calendar.js/actions"><img src="https://img.shields.io/github/actions/workflow/status/roo7k1d/wow-calendar.js/node.js.yml?logo=github-actions"/></a>
+<a href="https://www.npmjs.com/package/today-in-wow.,js"><img src="https://img.shields.io/npm/v/today-in-wow.,js?logo=npm"/></a>
+<a href="https://github.com/Roo7K1d/today-in-wow.,js/actions"><img src="https://img.shields.io/github/actions/workflow/status/roo7k1d/today-in-wow.,js/node.js.yml?logo=github-actions"/></a>
 </div>
 <br>
-<p align="center"><a href="https://github.com/roo7k1d/wow-calendar.js/issues">Report a Bug</a> | <a href="https://github.com/roo7k1d/wow-calendar.js/issues">Request a New Feature</a> | <a href="https://github.com/wow-calendar.js/pulls">Help Develop This Project</a> | <a href="https://ko-fi.com/RootK1d">Fund Me</a></p>
+<p align="center"><a href="https://github.com/roo7k1d/today-in-wow.,js/issues">Report a Bug</a> | <a href="https://github.com/roo7k1d/today-in-wow.,js/issues">Request a New Feature</a> | <a href="https://github.com/today-in-wow.,js/pulls">Help Develop This Project</a> | <a href="https://ko-fi.com/RootK1d">Fund Me</a></p>
 <p align="center"><i>Loved the project? Please consider giving a star</i> :)</p>
 
 <hr>
@@ -30,7 +30,7 @@
 ### getActiveEvents (Promise)
 
 ```js
-const calendar = require("wow-calendar.js");
+const calendar = require("today-in-wow.,js");
 
 calendar.getActiveEvents([locale]).then(result => {
   //Result: Array Of All Active Events (Objects; Including Event Descriptions & Event Icon URLs)
@@ -56,7 +56,7 @@ calendar.getActiveEvents([locale]).then(result => {
 ### getAllEvents (Promise)
 
 ```js
-const calendar = require("wow-calendar.js");
+const calendar = require("today-in-wow.,js");
 
 calendar.getAllEvents([locale]).then(result => {
   //Result: Array Of All Events (Objects)
@@ -72,7 +72,7 @@ calendar.getAllEvents([locale]).then(result => {
 ### getEvent (Promise)
 
 ```js
-const calendar = require("wow-calendar.js");
+const calendar = require("today-in-wow.,js");
 
 calendar.getEvent(id, [locale]).then(result => {
   //Result: Event Object (Including Event Descriptions & Event Icon URLs)
