@@ -1,5 +1,5 @@
 <img src="[http://rootk1d.xyz/github/today-in-wow.,js/github_banner.png](https://rootk1d.xyz/github/today-in-wow.js/banner.png)">
-<p align="center"><i>An npm package that fetches the World of Warcraft ingame events from https://wowhead.com/events using Axios & Cheerio.</i></p>
+<p align="center"><i>An npm package that fetches the World of Warcraft ingame events from https://wowhead.com/today-in-wow using Axios & Cheerio.</i></p>
 <div align="center">
   <a href="https://github.com/roo7k1d/today-in-wow.,js/stargazers"><img src="https://img.shields.io/github/stars/roo7k1d/today-in-wow.,js?color=yellow" alt="Stars Badge"/></a>
 <a href="https://github.com/roo7k1d/today-in-wow.,js/network/members"><img src="https://img.shields.io/github/forks/roo7k1d/today-in-wow.,js?color=orange" alt="Forks Badge"/></a>
